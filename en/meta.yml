@@ -1,11 +1,9 @@
-title: unity-gameobject-public-variable
+title: Accessing another GameObject through a public variable
 hero_image: images/banner.png
-description: unity-gameobject-public-variable description
+description: Accessing another GameObject through a public variable.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-29"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Accessing another GameObject through a public variable
