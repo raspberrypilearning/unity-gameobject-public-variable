@@ -1,0 +1,9 @@
+title: Accessing another GameObject through a public variable
+hero_image: images/banner.png
+description: Accessing another GameObject through a public variable.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-11-29"
+steps:
+  - title: Accessing another GameObject through a public variable
