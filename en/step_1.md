@@ -10,7 +10,7 @@ public class StarPlayer : MonoBehaviour
 }
 --- /code ---
 
-You can then create a variable with the type of the script that has the variable and set it using the Inspector. 
+You can then create a variable with the type of script that has the variable and set it using the Inspector. 
 
 You will then be able to access the variable to read the value or update it. 
 
@@ -22,7 +22,7 @@ language: cs
 
     void AddStar()
     {
-        player.stars += 1; // increase by 1
+        player.stars += 1; // Increase by 1
     }
 --- /code ---
 
